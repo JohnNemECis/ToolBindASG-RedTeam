@@ -6,7 +6,10 @@ https://blogs.msdn.microsoft.com/powershell/2017/11/02/powershell-constrained-la
 (reverse-Engineered)
 
 Module Sources:
+
 https://github.com/nullbind/Powershellery
+
 https://github.com/PowerShellMafia/PowerSploit/tree/dev
+
 https://github.com/samratashok/nishang
 
